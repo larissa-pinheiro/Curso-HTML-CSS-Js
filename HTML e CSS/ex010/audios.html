@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audios</title>
+</head>
+<body>
+    <h1>Reproduzindo áudio</h1>
+    <p>Vamos aprender a reproduzir áudios no HTML5</p>
+    <audio src="Midia/vinheta-xaropinho-rapaz-cut-mp3.mp3" controls></audio>
+
+    <p>Outra forma de escrever para reproduzir áudios</p>
+    <audio preload="metadata" controls>
+        <source src="Midia/vinheta-xaropinho-rapaz-cut-mp3.mp3" type="audio/mpeg">
+        <!--Posso adicionar outros sources com outros formatos, como .wav e .ogg para caso o navegador específico do cliente, não abrir o .mp3, tentar os próximos arquivos.-->
+        <p>Infelizmente seu navegador não consegue reproduzir audio. <a href="Midia/vinheta-xaropinho-rapaz-cut-mp3.mp3">Clique aqui para baixar o arquivo MP3</a></p>
+        <!--Posso deixar essa mensagem para que o cliente baixe o arquivo caso não reproduza mesmo assim.-->
+    </audio>
+</body>
+</html>
