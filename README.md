@@ -1,4 +1,4 @@
-# Curso-HTML-CSS-Js
+# Curso-HTML-CSS
 
 //Exercícios e anotações sobre o Curso de HTML5 e CSS3 do Gustavo Gusnabara via Curso em Video
 
