@@ -1,0 +1,15 @@
+@charset "UTF-8";  /* torna esse arquivo compatível com UTF-8 */
+
+body {
+    background-color: rgb(222, 253, 253);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1 {
+    color: rgb(64, 112, 114);
+}
+h2 {
+    color: rgb(84, 141, 143);
+}
+p {
+    text-align: justify;
+}
