@@ -1,0 +1,5 @@
+Posso utilizar atalhos para colocar as formatações nos textos.
+
+Basta selecionar o trecho que desejo formatar, usar o atalho CTRL + SHIFT + P e abrir a opção EMMET: ENVELOPE COM ABREVIATURA (EMMET: WRAP WITH ABBREVIATION) ou digitar lá na barra ABB que ele vai mostrar essa opção.
+
+No caso, basta digitar a tag de formatação desejada (p, strong, em), por exemplo.

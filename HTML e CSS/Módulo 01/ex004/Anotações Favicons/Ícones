@@ -1,0 +1,11 @@
+
+Neste site existem vários icones para utilizar no site:
+https://iconarchive.com/
+
+Para usar como um ícone de favoritos no site (fica ao lado do título do site), uso o formato .ico 
+
+No site favicon.cc consigo desenhar/criar o ícones pixelados também.
+
+No site favicon.io consigo criar ícones em texto, imagens ou emojis e transformar .png para .ico
+
+Para colocar o favicon, só escrever link:favicon em cima do título do cabeçalho em <head>   

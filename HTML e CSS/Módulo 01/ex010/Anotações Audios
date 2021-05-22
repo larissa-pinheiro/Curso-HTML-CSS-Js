@@ -1,0 +1,6 @@
+Vamos aprender a reproduzir áudios no HTML5
+É só baixar um audio em .mp3, .wav ou .ogg por exemplo e colocar dentro de audio
+A tag controls é para adicionar o botão para reprodução do áudio
+<audio src="Midia/vinheta-xaropinho-rapaz-cut-mp3.mp3" controls></audio>
+
+Posso adicionar o autoplay após o controls para reproduzir automaticamente o som sempre que entrar/atualizar o site.

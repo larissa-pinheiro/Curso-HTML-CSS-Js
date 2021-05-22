@@ -1,0 +1,29 @@
+
+Os melhores formatos de arquivos de vídeo para um site são:
+
+.mp4 ou .m4v (significam a mesma coisa mas pode estar com nome diferente, mas o vídeo .m4v é o melhor formato)
+.webm   (arquivo pequeno e com a qualidade ruim)
+.ogv
+
+
+Existe um programa chamado HandBrake, é um software gratuito muito bom que serve para converter vídeos.
+
+Além da forma mais comum de colocar os vídeos no site, existe a forma como no audio
+
+<video width="300" poster="colocoaquiumaimagemparaposter.png" controls>
+    <source src ="nomedovideo.mp4">
+</video
+
+Posso colocar também autoplay e loop dentro da tag video
+
+Vídeos hospedados no servidor podem e vão consumir uma grande quantidade de dados e desta forma fica mais caro para o cliente. Caso ele queira, ele deve ser orientado e ficar ciente disso.
+
+Mas há uma solução que é colocar os vídeos de outra forma:
+- Utilizando site de hospedagem de vídeos, como o Youtube por exemplo.
+Dentro do Youtube, vou até o vídeo e clico em Compartilhar e depois Incorporar e depois de copiar o código HTML informado lá e colar no site.
+Ou clicar com o botão direito em cima do vídeo e ir em copiar código de incorporação.
+Caso utilize o Youtube, devo alertar o cliente que há possibilidade de copiarem ou baixarem o vídeo.
+
+- Vimeo é uma outra ferramente e dá pra escolher deixar livre ou privado, mas é pago e em dólares caso seja um vídeo próprio do cliente.
+O vimeo tem mais personalização, e também não indica mais vídeos caso pause o vídeo.
+Caso ele queira pegar um vídeo de outro autor, dá pra pegar de graça. Porém, tem que tomar cuidado com copyright.
